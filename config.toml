@@ -43,7 +43,7 @@ doNotLoadAnimations = false
 # Commento Comments
 # CommentoURL = "https://commento.example.com/js/commento.js"
 # Read More links for truncated summaries
-# readMore = true
+readMore = true
 
 
 [params.simpleAnalytics]
@@ -63,11 +63,6 @@ title = "Linkedin"
 url = "https://www.linkedin.com/in/michaeltracey/"
 
 #[[params.socialIcons]]
-#icon = "fab fa-github"
-#title = "GitHub"
-#url = "https://github.com/lxndrblz/anatole/"
-
-#[[params.socialIcons]]
 #icon = "fab fa-instagram"
 #title = "instagram"
 #url = "https://www.instagram.com/"
@@ -76,6 +71,11 @@ url = "https://www.linkedin.com/in/michaeltracey/"
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:michael@michael-tracey.com"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "github"
+url = "https://github.com/mogmismo"
 
 ## Menu items
 
