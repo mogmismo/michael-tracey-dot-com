@@ -11,7 +11,7 @@ enableRobotsTXT = true
 #disqusShortname = ""
 
 # Google Analytics
-googleAnalytics = "G-7KW90ER3CZ"
+# googleAnalytics = 
 
 # Syntax highlighting
 pygmentsUseClasses = true
@@ -33,6 +33,7 @@ customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
+gtagId = "G-7KW90ER3CZ"
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
 # Google Site Verify
