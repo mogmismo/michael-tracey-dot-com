@@ -26,6 +26,8 @@ description = "Cloud Engineer"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
+displayMode = "light"
+disableThemeSwitcher = true 
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
@@ -68,10 +70,10 @@ url = "https://www.linkedin.com/in/michaeltracey/"
 #title = "instagram"
 #url = "https://www.instagram.com/"
 
-[[params.socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
-url = "mailto:michael@michael-tracey.com"
+#[[params.socialIcons]]
+#icon = "fas fa-envelope"
+#title = "e-mail"
+#url = "mailto:michael@michael-tracey.com"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
