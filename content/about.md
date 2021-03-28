@@ -1,25 +1,15 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "Michael Tracey"
 date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+aliases = ["about-me", "about-michael", "contact"]
+author = "Michael Tracey"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I am a Cloud Engineer who is interested in infrastructure as code, Search technologies, and cloud remediation and governance. 
 
-Hugo makes use of a variety of open source projects including:
+My first tech-job was support for a rural ISP in 1997, and I've continued to thrive in a changing industry, growing with it's evolution.  I've done network administration and unix system administration over the years, and even built datacenters. I've spent time in E-Commerce, and enjoyed the chance to manage product catalogs with over 100 million products.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Now I'm primarily working on Infrasturcture as Code, managing core resources for a large learning platform, at web-scale.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+ My non-tech hobbies include travel, photography, and table-top gaming.
