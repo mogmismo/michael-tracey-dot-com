@@ -28,14 +28,13 @@ keywords = ""
 favicon = "favicons/"
 displayMode = "light"
 disableThemeSwitcher = true 
-doNotLoadAnimations = true # Animations are loaded by default
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
-doNotLoadAnimations = false
+doNotLoadAnimations = true
 gtagId = "G-7KW90ER3CZ"
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
