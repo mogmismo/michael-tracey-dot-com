@@ -19,7 +19,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "Michael Tracey"
+title = "I'm Michael Tracey"
 author = "Michael Tracey"
 #copyright = "2020-2021"
 description = "Cloud Engineer"
@@ -28,6 +28,7 @@ keywords = ""
 favicon = "favicons/"
 displayMode = "light"
 disableThemeSwitcher = true 
+doNotLoadAnimations = true # Animations are loaded by default
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
